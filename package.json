@@ -11,11 +11,12 @@
   "dependencies": {
     "@geist-ui/core": "^2.3.8",
     "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
     "@supabase/auth-helpers-nextjs": "^0.10.0",
     "@supabase/supabase-js": "^2.47.12",
     "aos": "^2.3.4",
     "class-variance-authority": "^0.7.1",
-    "framer-motion": "^11.17.0",
+    "framer-motion": "^11.18.0",
     "jsonwebtoken": "^9.0.2",
     "next": "15.1.4",
     "react": "^19.0.0",
